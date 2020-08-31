@@ -4,8 +4,8 @@
     "author": "Andrés Testi",
     "date": "2020-08-30",
     "github": {
-      "login": "andrestesti",
-      "url": "https://github.com/andrestesti"
+      "login": "andytesti",
+      "url": "https://github.com/andytesti"
     },
     "repositories": [
       "https://github.com/Geal/nom",
@@ -27,7 +27,7 @@
       "url": "https://github.com/mlafroce"
     },
     "repositories": [
-      ""
+      "https://github.com/mlafroce/barbaos"
     ],
     "playground_links": [],
     "external_resources_links": [],
