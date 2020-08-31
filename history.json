@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Parsers y Combinator Parsers",
+    "author": "Andrés Testi",
+    "date": "2020-08-30",
+    "github": {
+      "login": "andrestesti",
+      "url": "https://github.com/andrestesti"
+    },
+    "repositories": [
+      "https://github.com/Geal/nom",
+      "https://github.com/fflorent/nom_locate"
+    ],
+    "playground_links": [
+      "https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=cfdca7b4146f444d4ec3e91c9714779e"
+    ],
+    "external_resources_links": [],
+    "presentations_dir_link": "",
+    "tape_url": ""
+  },
+  {
+    "title": "Rust n' Risc V - BarbaOS",
+    "author": "Matias Lafroce",
+    "date": "2020-08-30",
+    "github": {
+      "login": "mlafroce",
+      "url": "https://github.com/mlafroce"
+    },
+    "repositories": [
+      ""
+    ],
+    "playground_links": [],
+    "external_resources_links": [],
+    "presentations_dir_link": "",
+    "tape_url": ""
+  }
+]
